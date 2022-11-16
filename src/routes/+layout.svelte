@@ -32,7 +32,7 @@
         height: 0;
     }
 
-    :global(a, h1, h2, h3, h4, p){
+    :global(a, h1, h2, h3, h4, p, pre){
         font-family: 'Inter', sans-serif;
         font-weight: bold;
         text-decoration: none;

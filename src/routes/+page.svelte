@@ -77,7 +77,7 @@
 		background-color: rgba(0, 0, 0, 0.8);
 		border-radius: 40px;
         padding: 20px;
-
+        box-shadow: 1px 2px 8px 3px #02C39A;
 	}
 
 
