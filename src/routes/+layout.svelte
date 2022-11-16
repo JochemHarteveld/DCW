@@ -7,7 +7,7 @@
 </script>
 
 <div class="background" />
-<img src="../images/norway.jpeg" alt="">
+<img src="images/norway.jpeg" alt="">
 <slot />
 <div class="nav-wrapper">
 	<BottomNav />

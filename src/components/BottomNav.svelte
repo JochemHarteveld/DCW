@@ -1,23 +1,24 @@
 <script>
     const url = "/DCW";
+
 </script>
 
 
 <div class="container">
     <a href="{url}">
-        <img src="../icons/Hut.svg" alt="">
+        <img src="icons/Hut.svg" alt="">
         <span>Home</span>
     </a>
     <a href="{url}/jokers">
-        <img src="../icons/Viking Helmet.svg" alt="">
+        <img src="icons/Viking Helmet.svg" alt="">
         <span>Jokers</span>
     </a>
     <a href="{url}/bucketlist">
-        <img src="../icons/Viking Ship.svg" alt="">
+        <img src="icons/Viking Ship.svg" alt="">
         <span>Bucketlist</span>
     </a>
     <a href="{url}/scorebord">
-        <img class="leaderboard" src="../icons/Leaderboard.svg" alt="">
+        <img class="leaderboard" src="icons/Leaderboard.svg" alt="">
         <span>Scorebord</span>
     </a>
 </div>
