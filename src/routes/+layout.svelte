@@ -9,7 +9,9 @@
 
 <img src="images/norway.jpeg" alt="">
 <TopBar></TopBar>
-<slot />
+<div class="container">
+    <slot />
+</div>
 <div class="nav-wrapper">
 	<BottomNav />
 </div>
@@ -53,12 +55,18 @@
         width: 100vw;
         object-fit: cover;
         filter: contrast(130%) brightness(0.8) saturate(1.2);
-        position: absolute;
+        position: fixed;
         top: 0;
         z-index: -1;
     }
 
+    .container{
+        margin-bottom: 100px;
+    }
+    
+
 	.nav-wrapper {
+		position: fixed;
 		bottom: 0;
 		width: 100%;
 	}
