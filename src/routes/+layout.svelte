@@ -61,7 +61,7 @@
     }
 
     .container{
-        margin-bottom: 100px;
+        margin-bottom: 120px;
     }
     
 

@@ -9,12 +9,12 @@
 		<div class="placement">
 			<h3 class="name">2. Witte wieven</h3>
 			<img src="logos/wieven.svg" alt="" />
-			<h3>120</h3>
+			<h3>104</h3>
 		</div>
 		<div class="placement">
 			<h3 class="name">3. Kobra</h3>
 			<img src="logos/kobra.svg" alt="" />
-			<h3>120</h3>
+			<h3>93</h3>
 		</div>
 	</div>
 </div>
