@@ -51,7 +51,7 @@
         position: absolute;
         left: 50%;
         bottom: 10px;
-        translate: -50%;
+        transform: translate(-50%);
         font-size: .9em;
     }
 
